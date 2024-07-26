@@ -1,0 +1,25 @@
+{
+  "id": "modulo-comboio",
+  "title": "Comboio Espiral",
+  "authors": [],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "label": "Comboio Espiral",
+      "type": "Adventure",
+      "name": "comboio-espiral",
+      "path": "packs/comboio-espiral",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world"
+    }
+  ]
+}
